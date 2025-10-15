@@ -1,4 +1,4 @@
-# 🛒 Quick Commerce Sales Dashboard (Blinkit Dataset)
+# 🛒 Quick Commerce Sales Dashboard 
 
 This Power BI dashboard provides a comprehensive analysis of Blinkit's sales performance across different outlet types, item categories, and location tiers.  
 The goal is to explore data-driven insights and understand how various factors influence total and average sales.
@@ -45,4 +45,22 @@ By using Power BI’s interactive visuals, the dashboard allows users to filter 
 
 - **Total Sales:** $1.20M with an **average sale of $141**  
 - **Top Outlets:** Medium-sized outlets drive the highest total sales  
-- **Category Trends:** Fruits, Snac
+- **Category Trends:** Fruits, Snacks, and Household items are the best-performing categories  
+- **Location Impact:** Tier-3 outlets show competitive average ratings  
+- **Fat Content Insight:** Regular fat items slightly outperform low-fat items in overall sales  
+
+---
+
+
+## 🚀 How to View
+
+1. Clone or download this repository  
+2. Open the `.pbix` file in **Power BI Desktop**  
+3. Explore the visuals using filters for outlet location, size, and item type  
+
+---
+
+## 📘 Conclusion
+
+This project demonstrates how Power BI can turn raw retail data into actionable insights.  
+Through clean design and visual storytelling, it helps highlight how different outlet attributes affect overall performance in a quick commerce setup.
