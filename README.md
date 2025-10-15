@@ -3,7 +3,6 @@
 This Power BI dashboard provides a comprehensive analysis of Blinkit's sales performance across different outlet types, item categories, and location tiers.  
 The goal is to explore data-driven insights and understand how various factors influence total and average sales.
 
----
 
 ## 📊 Project Overview
 
@@ -16,7 +15,6 @@ By using Power BI’s interactive visuals, the dashboard allows users to filter 
 - Evaluate the impact of outlet size and location type on revenue  
 - Identify key product categories driving growth  
 
----
 
 ## 🧩 Dataset Information
 
@@ -30,7 +28,6 @@ By using Power BI’s interactive visuals, the dashboard allows users to filter 
 - `Outlet Location Type` – Tier-wise segmentation  
 - `Item Fat Content`, `Sales`, `Rating`, and visibility metrics  
 
----
 
 ## ⚙️ Tools Used
 
@@ -39,7 +36,6 @@ By using Power BI’s interactive visuals, the dashboard allows users to filter 
   - DAX for calculated measures and KPIs  
   - Interactive visuals and dashboard design  
 
----
 
 ## 🧠 Key Insights
 
@@ -49,7 +45,6 @@ By using Power BI’s interactive visuals, the dashboard allows users to filter 
 - **Location Impact:** Tier-3 outlets show competitive average ratings  
 - **Fat Content Insight:** Regular fat items slightly outperform low-fat items in overall sales  
 
----
 
 
 ## 🚀 How to View
