@@ -34,7 +34,14 @@ By using Power BI’s interactive visuals, the dashboard allows users to filter 
 - **Power BI Desktop**  
   - Power Query for cleaning and transformation  
   - DAX for calculated measures and KPIs  
-  - Interactive visuals and dashboard design  
+  - Interactive visuals and dashboard design
+ 
+
+## 🖥️ Dashboard Preview
+
+Here’s a preview of the Power BI dashboard built for this project:
+
+![Quick Commerce Dashboard](https://github.com/Puneeth-mail/quick-commerce-/blob/main/dashboard%20screenshot.png?raw=true)
 
 
 ## 🧠 Key Insights
